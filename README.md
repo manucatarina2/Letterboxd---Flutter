@@ -176,5 +176,5 @@ As imagens dos pôsteres podem ser carregadas por URLs públicas ou arquivos loc
 
 Projeto desenvolvido como atividade prática da disciplina de Flutter, inspirado na plataforma Letterboxd.
 
-**Ana Aleixo**
+**Ana Aleixo e**
 **Manuela Catarina**
